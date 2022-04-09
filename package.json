@@ -40,7 +40,7 @@
     "jstimezonedetect": "^1.0.6",
     "lodash": "^4.17.15",
     "marked": "^0.7.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.26",
     "nextcloud-axios": "^0.2.1",
     "nextcloud-password-confirmation": "^0.4.2",
